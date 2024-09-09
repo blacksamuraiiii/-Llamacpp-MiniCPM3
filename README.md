@@ -24,6 +24,7 @@ sudo make -j8
 
 
 ## 4、获取量化后的模型文件gguf
+可以去hf或者魔搭上下载现成的，也可以自己量化
 ```bash
 cd ../
 mkdir models
